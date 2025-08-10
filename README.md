@@ -1,4 +1,4 @@
-<div style="text-align: center; margin-bottom: 20px;">
+<div style="text-align: center; margin-bottom: 10px;">
   <img src="sample/sample.png" alt="Substitution Cipher Flow" style="max-width: 400px;" />
 </div>
 
@@ -6,11 +6,6 @@
 
 This Python program implements a simple **substitution cipher** to encrypt and decrypt text messages.  
 It works by mapping each character in a predefined character set to a randomly shuffled version of itself.
-
----
-
-## Sample  
-*Example: How characters are mapped during encryption and decryption.*
 
 ---
 
