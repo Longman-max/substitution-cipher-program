@@ -58,5 +58,5 @@ venv\Scripts\activate
 # On macOS/Linux:
 source venv/bin/activate
 
-# Install dependencies (if any)
-pip install -r requirements.txt
+# run the program 
+py main.py
